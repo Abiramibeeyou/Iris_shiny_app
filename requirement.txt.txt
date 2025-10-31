@@ -1,0 +1,10 @@
+# Required R Packages for the Iris Analytics Dashboard
+
+shiny
+shinydashboard
+plotly
+DT
+DBI
+RSQLite
+dplyr
+ggplot2
